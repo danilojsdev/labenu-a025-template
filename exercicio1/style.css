@@ -1,33 +1,41 @@
 #texto-fonte-root{
-
+    background-color: lightblue;
+    font-size: 3rem;
 }
 
 #texto-paddings-verticais{
-
+    background-color: lightcyan;
+    padding: 2rem 0;
 }
 
 #altura-porcentagem-comprimento{
-
+    background-color: lightgoldenrodyellow;
+    height: 20vh;
 }
 
 #comprimento-metade-altura{
-
+    background-color: lightgreen;
+    width: 50vh;
 }
 
 .container{
+    background-color: lightsteelblue;
     border: 1px solid black;
     width: 400px;
     font-size: 20px;
 }
 
 #fonte-setenta{
-
+    background-color:bisque;
+    font-size: 70%;
 }
 
 #comprimento-pai{
-
+    background-color: rgb(103, 234, 234);
+    width: 10%;
 }
 
 #altura-pai{
-
+    background-color: rgb(58, 194, 149);
+    height: 10%;
 }
